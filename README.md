@@ -7,7 +7,9 @@ Note :
 For program which constantlly checks at regular interval if the program has expired then dll injection feature is what u are looking for,
 If you happen to be a programmer then send me the pull request for dll injection code if u happen to fork and build this dll injection feature.
 
-![image](https://github.com/user-attachments/assets/5c3b2fca-bbbe-4d0c-a4b7-81569e2aa930)
+![image](https://github.com/user-attachments/assets/3b5d5537-af98-4473-ac08-f7df7f62dff2)
+
+
 
 
 
