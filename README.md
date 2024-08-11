@@ -1,5 +1,5 @@
 # RunasDate
-For people who can't compile this python script there is exe build in the release section , You can download it <a href="#">here</a>
+For people who can't compile this Python script, there is an executable build available in the release section. You can download it [here](https://github.com/programmer007007/RunasDate/releases/download/MK001/TimeSetter.exe).
 Stops time of the program can be used on extending trails using python , similar to RunasDate . 
 Note : 
 1) No dll injection happens here.
